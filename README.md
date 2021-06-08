@@ -1,4 +1,4 @@
-# Ambulance Ahortest Path Finder using A* ALgorithm in C++
+# Ambulance Ahortest Path Finder using A* Algorithm in C++
 Application to find the shortest path for Ambulance using A* Algorithm
 
 ## Description
