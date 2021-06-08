@@ -1,4 +1,4 @@
-# Path-Finder-Using-A_Star-Algorithm
+# Ambulance Ahortest Path Finder using A* ALgorithm in C++
 Application to find the shortest path for Ambulance using A* Algorithm
 
 ## Description
