@@ -33,6 +33,8 @@ Screenshot below shows the driving ambulance through path.
  ## Finding Path
  Screen below shows the path specified using "--" as shortest path from all the routes.
  
+  ![Alt text](3.png?raw=true "Optional Title")
+ 
  ## How to Run:
 
 You can run this .ccp file in any c++ compiler. But remember before running the program keep map.txt in the directory.
