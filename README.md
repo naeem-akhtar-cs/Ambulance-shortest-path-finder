@@ -39,5 +39,4 @@ Screenshot below shows the driving ambulance through path.
 
 You can run this .ccp file in any c++ compiler. But remember before running the program keep map.txt in the directory.
 
-If there is any question feel free to ask at naeem.akhtar.cs@gmail.com. Thanks
-
+Thanks
